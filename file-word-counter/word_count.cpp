@@ -64,5 +64,5 @@ int main(int argc, char** argv) {
 		cout << keys.at(i) << " character words: " << table[keys.at(i)].size() << " words" << endl;
 	}
 
-	system("PAUSE");
+	return 0;
 }
